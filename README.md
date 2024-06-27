@@ -5,4 +5,4 @@
 
 🔭 Besides my academic journey, I actively contribute to GitHub projects and am eager to collaborate on innovative ideas in the fields of web development and cloud computing.
 
-📫 Let's connect! Feel free to reach out via email at [your email address] or connect with me on [LinkedIn profile link]. Excited to exchange ideas and work on exciting projects together!
+📫 Let's connect! Feel free to connect with me on LinkedIn. Excited to exchange ideas and work on exciting projects together!
